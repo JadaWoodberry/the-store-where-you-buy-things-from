@@ -1,0 +1,121 @@
+body {
+    margin: 0px;
+    font-family: 'Heebo', sans-serif;
+
+}
+
+.header {
+    text-align: center;
+    background-color: lightblue;
+    font-size: 30px;
+    padding: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cart {
+    width: 250px;
+    margin: auto;
+    display: block;
+}
+
+.inputs {
+    text-align: center;
+}
+
+button {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.x {
+    position: fixed;
+    width: 15px;
+    bottom: 201px;
+    left: 8px;
+    filter: invert(100%);
+
+
+}
+
+.footer {
+    background-color: #3f87fc;
+    height: 50px;
+    padding: 25px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    width: 300px;
+    display: block;
+
+
+}
+
+.thecart {
+ display: flex;
+    
+}
+
+.name {
+
+  
+
+    
+}
+
+
+.nice {
+    width: 80px;
+    position: fixed;
+    left: 55px;
+    bottom: 30px;
+}
+
+.inputimgs {
+    width: 200px;
+}
+
+.arrays {
+    display: flex;
+    flex-direction: row;
+}
+
+.co {
+    display: block;
+    margin: auto;
+}
+
+
+.fakeads {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    position: fixed;
+    bottom: 20px;
+    left: 5px;
+
+}
+
+.adtext {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 3px;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+.spad {
+    width: 700px;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.ad {
+    position: fixed;
+    right: 5px;
+    top: 150px;
+
+}
